@@ -1,0 +1,2 @@
+RewriteEngine on
+RewriteRule ^((?!style)(?!js)(?!demo)(?!admin\/template)(?!resource)(?!module\/assets).*)$ index.php [L]
